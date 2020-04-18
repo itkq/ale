@@ -242,6 +242,8 @@ Notes:
   * `jq`
   * `jsonlint`
   * `prettier`
+* Jsonnet
+  * `jsonnetfmt`
 * Julia
   * `languageserver`
 * Kotlin
